@@ -1,1 +1,1 @@
-# Dolar-hoje-puppeter
+# Script usando Puppeter para pesquisa do dólar
