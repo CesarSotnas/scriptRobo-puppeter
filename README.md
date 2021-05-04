@@ -1,3 +1,5 @@
 # Script usando Puppeter para pesquisa do dólar
 
-NPM install puppeteer
+npm init -y
+
+npm install puppeteer
